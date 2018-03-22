@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+        <dict>
+           <key>PayloadType</key>
+           <string>com.apple.appstore</string>
+           <key>PayloadVersion</key>
+           <integer>1</integer>
+           <key>PayloadIdentifier</key>
+           <string>com.github.surgical-profiles.restrictions.Applications.DoNotRestrictAppStoreToMdmInstalledAppsAndSoftwareUpdates</string>
+           <key>PayloadEnabled</key>
+           <true/>
+           <key>PayloadUUID</key>
+           <string>99677257-122E-4FBC-9CD7-827B90C06D63</string>
+           <key>PayloadDisplayName</key>
+           <string>App Store Configuration</string>
+           <key>restrict-store-softwareupdate-only</key>
+           <true/>
+        </dict>
+    </array>
+	<key>PayloadDescription</key>
+	<string>Restrictions - Applications - Do Not Restrict App Store to MDM installed apps and software updates</string>
+	<key>PayloadDisplayName</key>
+	<string>Do Not Restrict App Store to MDM installed apps and software updates</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.surgical-profiles.restrictions.Applications.DoNotRestrictAppStoreToMdmInstalledAppsAndSoftwareUpdates</string>
+	<key>PayloadOrganization</key>
+	<string>Surgical Profiles</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3441C6C7-6497-4437-8F36-D3F42E6D8031</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

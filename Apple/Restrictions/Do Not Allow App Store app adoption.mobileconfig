@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+        <dict>
+           <key>PayloadType</key>
+           <string>com.apple.appstore</string>
+           <key>PayloadVersion</key>
+           <integer>1</integer>
+           <key>PayloadIdentifier</key>
+           <string>com.github.surgical-profiles.restrictions.Applications.DoNotAllowAppStoreAppAdoption</string>
+           <key>PayloadEnabled</key>
+           <true/>
+           <key>PayloadUUID</key>
+           <string>DC955073-7C8D-4EC5-ADF5-3CF48C5F17CA</string>
+           <key>PayloadDisplayName</key>
+           <string>App Store Configuration</string>
+           <key>restrict-store-disable-app-adoption</key>
+           <true/>
+        </dict>
+    </array>
+	<key>PayloadDescription</key>
+	<string>Restrictions - Applications - Do Not Allow App Store app adoption</string>
+	<key>PayloadDisplayName</key>
+	<string>Do Not Allow App Store app adoption</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.surgical-profiles.restrictions.Applications.DoNotAllowAppStoreAppAdoption</string>
+	<key>PayloadOrganization</key>
+	<string>Surgical Profiles</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>FF755C2C-54BC-428B-9396-B514F32897C3</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
