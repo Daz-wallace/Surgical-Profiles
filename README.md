@@ -19,3 +19,13 @@ TODO
 
 ## Contributing 
 TODO
+
+### Creation
+TODO
+
+### Testing
+TODO
+
+### Documentation
+TODO
+
