@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AllowPreReleaseInstallation</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Software Update - Do Not Allow installation of macOS beta releases</string>
+			<key>PayloadDisplayName</key>
+			<string>Do Not Allow installation of macOS beta releases</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.github.surgical-profiles.SoftwareUpdate.DoNotAllowInstallationOfMacosBetaReleases</string>
+			<key>PayloadOrganization</key>
+			<string>Surgical Profiles</string>
+			<key>PayloadType</key>
+			<string>com.apple.SoftwareUpdate</string>
+			<key>PayloadUUID</key>
+			<string>786F6A8A-D763-4C54-8F6D-59EE53D9DD2F</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Software Update - Do Not Allow installation of macOS beta releases</string>
+	<key>PayloadDisplayName</key>
+	<string>Do Not Allow installation of macOS beta releases</string>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>com.github.surgical-profiles.SoftwareUpdate.DoNotAllowInstallationOfMacosBetaReleases</string>
+	<key>PayloadOrganization</key>
+	<string>Surgical Profiles</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>AE0F5245-C371-4483-9DD3-F35DF37E6F0B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

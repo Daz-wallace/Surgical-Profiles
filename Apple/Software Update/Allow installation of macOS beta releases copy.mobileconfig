@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>CatalogURL</key>
+			<string>http://server.net:8088/index.sucatalog</string>
+			<key>PayloadDescription</key>
+			<string>Software Update - Set Software Update Server</string>
+			<key>PayloadDisplayName</key>
+			<string>Set Software Update Server</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.github.surgical-profiles.SoftwareUpdate.SetSoftwareUpdateServer</string>
+			<key>PayloadOrganization</key>
+			<string>Surgical Profiles</string>
+			<key>PayloadType</key>
+			<string>com.apple.SoftwareUpdate</string>
+			<key>PayloadUUID</key>
+			<string>7F0325C1-1FE1-43FE-A8B0-888981FA731A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Software Update - Set Software Update Server</string>
+	<key>PayloadDisplayName</key>
+	<string>Set Software Update Server</string>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>com.github.surgical-profiles.SoftwareUpdate.SetSoftwareUpdateServer</string>
+	<key>PayloadOrganization</key>
+	<string>Surgical Profiles</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>5EE8AA25-5B23-49EC-BC8D-4827F0548C3E</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
